@@ -1,5 +1,6 @@
 ## Hi there 👋 My name is Varni Patel
 
+I'm learning Ruby on rails 
 <!--
 **Varni-Patel/Varni-Patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
